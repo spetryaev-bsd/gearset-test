@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>spetryaev@bostonsd.ru</contactEmail>
+    <label>RecordViewer</label>
+    <oauthConfig>
+        <callbackUrl>https://localhost:8090/oauth-redirect</callbackUrl>
+        <consumerKey>3MVG9Ve.2wqUVx_ZwYzDZDbYtA_ePPx8uGK51JaoI7PIGGyy4Diw4w9YD8HCmKNW_BUT2T1hHqK_LsmuhDyPv</consumerKey>
+        <isAdminApproved>false</isAdminApproved>
+        <scopes>Api</scopes>
+    </oauthConfig>
+</ConnectedApp>
